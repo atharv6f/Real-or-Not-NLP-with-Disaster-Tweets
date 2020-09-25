@@ -20,6 +20,8 @@ To predict whether a given tweet is about a real disaster or not. If so, predict
 ## Metrics
 * F-1 score
 
+# Dataset
+* https://www.kaggle.com/c/nlp-getting-started
 ## Rank
 * 79/1321
 
